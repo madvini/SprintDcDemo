@@ -6,8 +6,3 @@ Chnaged the priorty
 
 I have added Some text
 
-<<<<<<< HEAD
-No i cant do any chnages
-=======
-Hos is that you have done changes and i have not
->>>>>>> 424e81fa93ef977f33075144c23e6189155294d9
